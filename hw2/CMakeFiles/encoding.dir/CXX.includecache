@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/Tries.cpp
+Tries.h
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/Tries.h
+cstdlib
+-
+cstddef
+-
+
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/Tries.h
+TriesNode.h
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/TriesNode.h
+
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/TriesNode.cpp
+TriesNode.h
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/TriesNode.h
+cstddef
+-
+cstdint
+-
+
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/TriesNode.h
+
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/encoding.cpp
+iostream
+-
+cstdio
+-
+cstring
+-
+cstdlib
+-
+cstddef
+-
+time.h
+-
+Tries.h
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/Tries.h
+

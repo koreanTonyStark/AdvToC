@@ -1,0 +1,4 @@
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/CMakeFiles/rebuild_cache.dir
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/CMakeFiles/edit_cache.dir
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/CMakeFiles/encoding.dir
+/home/ironman/[Sync]Drive_Linux/Studies/Computation_Theory/test/CMakeFiles/decoding.dir

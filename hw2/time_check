@@ -1,0 +1,6 @@
+#!/bin/sh
+
+date +"%T.%N";
+#zip time_test.zip kernel_log.txt;
+unzip time_test.zip -d test/
+date +"%T.%N";

@@ -1,0 +1,14 @@
+*************************************
+Name: Jeong Jae-Hwan
+Student ID : 2018-26716
+*************************************
+Implementation Environment
+
+- OS : Ubuntu 18.04 LTS
+- Kernel : Linux 4.15.0-36-generic
+- CPU : Intel(R) Core(TM) i7-8700 CPU@ 3.20GHz
+- Programming Language : C++
+- Compiler and Version : gcc, g++ (7.3.0)
+- Compile Method : used cmake, auto-generated Makefile, just simply stroke "make" command, then you can use it easily
+- Execution format : do "./encoding [input] [output]" (in that directory)
+                        "./decoding [input] [output]" (in that directory)

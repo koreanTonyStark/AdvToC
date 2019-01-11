@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/encoding.dir/encoding.cpp.o CMakeFiles/encoding.dir/Tries.cpp.o CMakeFiles/encoding.dir/TriesNode.cpp.o  -o encoding 
